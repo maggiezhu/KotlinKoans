@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestOperatorsOverloading" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-07-30T13:34:06" hostname="Alishans-MBP.localdomain" time="0.032">
+  <properties/>
+  <testcase name="testOneMonth" classname="TestOperatorsOverloading" time="0.031"/>
+  <testcase name="testAddOneTimeInterval" classname="TestOperatorsOverloading" time="0.0"/>
+  <testcase name="testMonthChange" classname="TestOperatorsOverloading" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

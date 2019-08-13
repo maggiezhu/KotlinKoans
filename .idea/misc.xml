@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="12" project-jdk-type="JavaSDK" />
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../workspace/courses/coursera_scala1" value="1471117439000" />
+        <entry key="$PROJECT_DIR$/../workspace/courses/example" value="1459534374000" />
+        <entry key="$PROJECT_DIR$/../workspace/courses/funsets" value="1462334240000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+</project>
